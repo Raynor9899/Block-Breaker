@@ -1,0 +1,80 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ray\Documents\UdemyUnityCourse\Block-Breaker\PcBuild_Data\Managed\System.dll (this message is harmless)
+Music Player Awake10124
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: Level_tutorial
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 3.171189 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 639.
+Total: 0.681207 ms (FindLiveObjects: 0.018233 ms CreateObjectMapping: 0.006199 ms MarkObjects: 0.141492 ms  DeleteObjects: 0.002917 ms)
+
+UnloadTime: 0.597697 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 688.
+Total: 0.624318 ms (FindLiveObjects: 0.018598 ms CreateObjectMapping: 0.006928 ms MarkObjects: 0.137116 ms  DeleteObjects: 0.002917 ms)
+
+UnloadTime: 0.586392 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 703.
+Total: 0.697253 ms (FindLiveObjects: 0.017504 ms CreateObjectMapping: 0.007658 ms MarkObjects: 0.113048 ms  DeleteObjects: 0.005834 ms)
+
+UnloadTime: 0.641823 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 0.628694 ms (FindLiveObjects: 0.018598 ms CreateObjectMapping: 0.007658 ms MarkObjects: 0.111589 ms  DeleteObjects: 0.005470 ms)
+
+UnloadTime: 0.632706 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 0.849321 ms (FindLiveObjects: 0.006199 ms CreateObjectMapping: 0.022245 ms MarkObjects: 0.160455 ms  DeleteObjects: 0.044125 ms)
+
+New Level load: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.439429 ms
+Music Player Awake14900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Duplicate music player sel-destructing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 153.
+Total: 0.649845 ms (FindLiveObjects: 0.020056 ms CreateObjectMapping: 0.006928 ms MarkObjects: 0.094814 ms  DeleteObjects: 0.002188 ms)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
